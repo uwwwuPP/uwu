@@ -231,6 +231,7 @@ mit license
 open an issue, be nice
 
 ### projects using this
+* [uwu.pm](https://uwu.pm): yet another web uwuifier, offering traditional, and role-oriented, ai-based transformers
 * [uwu-tray](https://github.com/Olaren15/uwu-tray): a tray icon to uwuify your text
 * [uwubot](https://github.com/yaahc/uwubot): discord bot for uwuifying text
 * [uwupedia](http://uwupedia.org/): the uwuified encycwopedia
